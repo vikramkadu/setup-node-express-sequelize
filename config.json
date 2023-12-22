@@ -1,0 +1,8 @@
+{
+  "USER": "",
+  "PASSWORD": "@",
+  "SERVER": "",
+  "DATABASE": "",
+  "DEBUG": "sequeli:e:sql*",
+  "JWT_SECRET": "1234567890abcdefghijklmnopqrstuvwxyz"
+}
